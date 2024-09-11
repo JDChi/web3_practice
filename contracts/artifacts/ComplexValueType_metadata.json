@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "testAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testFixedByteArray",
+				"outputs": [
+					{
+						"internalType": "bytes28",
+						"name": "",
+						"type": "bytes28"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testMyAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ComplexValueType.sol": "ComplexValueType"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ComplexValueType.sol": {
+			"keccak256": "0x10fbe5584c2ea20199db45d4bc56462ee023fd388ae39c536392ca67668ceab3",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://42af8d864604b6b159186f53f5fb857be95c090bffbcaf5d79220b72e9fe20a5",
+				"dweb:/ipfs/QmR1U34y2b7Mb5XnsteYmb62thKGbei5u2QBSk9A8fP33s"
+			]
+		}
+	},
+	"version": 1
+}
