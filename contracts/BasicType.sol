@@ -14,7 +14,7 @@ contract BasicType {
     }
 
     function testEnum() public pure returns (OrderState) {
-        OrderState state = OrderState.layorder;
+        OrderState state = OrderState.payment;
         return state;
     }
 }

@@ -10,9 +10,9 @@
 				"name": "testEnum",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "enum BasicType.OrderState",
 						"name": "",
-						"type": "uint256"
+						"type": "uint8"
 					}
 				],
 				"stateMutability": "pure",
@@ -60,11 +60,11 @@
 	},
 	"sources": {
 		"contracts/BasicType.sol": {
-			"keccak256": "0x1d08a91983fa33c9690a86b74af4ba3a416193ac70e53b341db319e8d495352d",
+			"keccak256": "0x3c0240fc7abc56457e92d8dfda12394e6136086d8970d01fdd1712a72d280ad3",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://0ed230cc8f5ecb95ed7a29c355d8205ded1b73a6058bf2f02eb57bec73ee010d",
-				"dweb:/ipfs/QmZApSCRTknmeCP86rFF1RYWJCiW1JDynPbbbzewXZ4fGX"
+				"bzz-raw://048bb70fb45db091b3320651b3561f46643ed225b5dbdfaece8f247d53d2a7ba",
+				"dweb:/ipfs/QmUZ4X4x7fgJWFiiNdBbWUBYsFZDbzEKJp5RPMa2PVnrqZ"
 			]
 		}
 	},
